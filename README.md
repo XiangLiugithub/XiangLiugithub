@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Autopsy Case Report | Digital Forensics](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2> 🤳 Connect with me:</h2>
