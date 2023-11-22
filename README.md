@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Autopsy Case Report | Digital Forensics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Autopsy Case Report | Digital Forensics](https://github.com/XiangLiugithub/autopsycaseReport)
 
 
 <h2> 🤳 Connect with me:</h2>
