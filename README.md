@@ -1,4 +1,4 @@
-<h1>Hi, I'm Xiang! <br/><a href="https://github.com/XiangLiugithub">Programmer</a>, <a href="https://www.linkedin.com/in/xiangliuprofile">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Xiang! <a href="https://www.linkedin.com/in/xiangliuprofile">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -9,7 +9,7 @@
 
 [<img align="left" alt="XiangLiu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/xiangliuprofile
+[linkedin]: https://www.linkedin.com/in/xiangliuprofile
 
 <!--
 **XiangLiugithub/XiangLiugithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
