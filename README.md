@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Autopsy Case Report | Digital Forensics](https://github.com/XiangLiugithub/autopsycaseReport)
-
+  - [Python Practice | Learning Python](https://github.com/XiangLiugithub/pythonProject)
 
 <h2> 🤳 Connect with me:</h2>
 
